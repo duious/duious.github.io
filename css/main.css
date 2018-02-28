@@ -14,6 +14,7 @@ a, a:hover, a:visited {
 footer {
     border-top: 1px solid #aaa;
     position: absolute;
+    bottom: 0;
     width: 100%;
 }
 
