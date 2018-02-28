@@ -4,7 +4,7 @@ body {
     min-height: 600px;
     min-width: 1280px;
     background-color: #ececec;
-    font-family: FontAwesome, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, SimSun, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, SimSun, sans-serif;
     font-size: 14px;
     position: absolute;
     display: block;
