@@ -23,3 +23,7 @@ footer {
 .selector-for-some-widget {
     box-sizing: content-box;
 }
+
+.post {
+    background-color: #fff;
+}
