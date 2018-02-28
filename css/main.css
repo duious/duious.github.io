@@ -13,7 +13,8 @@ a, a:hover, a:visited {
 
 footer {
     border-top: 1px solid #aaa;
-    position: absolute;
+    min-height: 960px;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
