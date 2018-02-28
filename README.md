@@ -1,1 +1,1 @@
-# duious.github.io
+# duious personal java notes 
