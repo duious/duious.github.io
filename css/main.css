@@ -11,10 +11,12 @@ a, a:hover, a:visited {
     color: #333;
 }
 
+.container {
+    min-height: 800px;
+}
+
 footer {
     border-top: 1px solid #aaa;
-    margin-top: 960px;
-    position: relative;
     width: 100%;
 }
 
