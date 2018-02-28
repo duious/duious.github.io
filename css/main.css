@@ -25,6 +25,7 @@ footer {
 }
 
 .post {
+    width: 800px;
     background-color: #fff;
     padding: 40px 0 0 15px;
     border: 0 solid #333;
