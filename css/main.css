@@ -1,3 +1,20 @@
+body {
+    margin: auto;
+    width: 100%;
+    min-height: 600px;
+    min-width: 1280px;
+    background-color: #ececec;
+    font-family: FontAwesome, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, SimSun, sans-serif;
+    font-size: 14px;
+    position: absolute;
+    display: block;
+}
+
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: #333;
+}
+
 .selector-for-some-widget {
     box-sizing: content-box;
 }

@@ -1,17 +1,18 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="ZH-cn">
 <head>
     <title>{{ page.title }}</title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand " href="http://www.duious.com/" title="前往duious个人主页">
         <span style="vertical-align: inherit;color:#fff">
-            <span style="vertical-align: inherit;">duious</span>
+            <span style="vertical-align: inherit;">&nbsp;&nbsp;duious&nbsp;&nbsp;</span>
         </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -54,11 +55,17 @@
 <div class="container">
     {{content}}
 </div>
-<footer>
-    <ul>
-        <li><a href="mailto: @gmail.com">email</a></li>
-        <li><a href="https://github.com/duious" target="_blank">github.com/duious</a></li>
-    </ul>
+<footer class="footer ">
+    <div class="container">
+        <hr>
+        <div class="text-center">
+            <ul class="list-inline">
+                <li>Email: <a href="mailto: 33707158+duious@users.noreply.github.com"
+                >33707158+duious@users.noreply.github.com</a></li>
+                <li>GitHub:<a href="https://github.com/duious" target="_blank">github.com/duious</a></li>
+            </ul>
+        </div>
+    </div>
 </footer>
 <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
