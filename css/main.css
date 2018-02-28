@@ -1,12 +1,8 @@
 body {
-    margin: auto;
-    width: 100%;
-    min-height: 600px;
-    min-width: 1280px;
+    margin: 0 auto;
     background-color: #ececec;
     font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, SimSun, sans-serif;
     font-size: 14px;
-    position: absolute;
     display: block;
 }
 
