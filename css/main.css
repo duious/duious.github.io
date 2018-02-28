@@ -13,6 +13,8 @@ a, a:hover, a:visited {
 
 footer {
     border-top: 1px solid #aaa;
+    position: absolute;
+    width: 100%;
 }
 
 .selector-for-some-widget {
