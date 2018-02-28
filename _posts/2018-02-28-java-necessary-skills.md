@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "duious, Horrible Cop, Launches Site"
+title: "java 必备技能"
 date: 2018-02-28
 ---
