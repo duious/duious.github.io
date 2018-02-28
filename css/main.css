@@ -26,10 +26,10 @@ footer {
 
 .post {
     width: 800px;
-    background-color: #eef0f4;
+    background-color: #fff;
     padding: 40px 0 0 15px;
-    border: 0 solid #333;
-    border-left: 35px solid #ccc;
+    border: 0 solid #eef0f4;
+    border-left: 35px solid #eef0f4;
     font-family: Consolas, Inconsolata, Courier, monospace;
     font-size: 14px;
     font-weight: 400;
